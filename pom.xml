@@ -59,6 +59,7 @@
     </dependencies>
 
     <build>
+        <finalName>k2-rci-api-orders-runner</finalName>
         <plugins>
             <plugin>
                 <groupId>${quarkus.platform.group-id}</groupId>
