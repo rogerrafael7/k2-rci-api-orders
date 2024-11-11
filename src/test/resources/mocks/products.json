@@ -1,0 +1,45 @@
+{
+  "page": 1,
+  "limit": 5,
+  "totalItems": 14,
+  "totalPages": 3,
+  "hasNextPage": true,
+  "hasPreviousPage": false,
+  "data": [
+    {
+      "id": "cb47d71f-3faf-4d38-9eba-0d2e7760920c",
+      "name": "Tasty Rubber Table",
+      "price": 62.44,
+      "description": "laborum omnis ducimus",
+      "type": "Tasty"
+    },
+    {
+      "id": "26b5cb85-b7a6-4d58-81d8-d3125436c445",
+      "name": "Intelligent Concrete Ball",
+      "price": 431.82,
+      "description": "Nobis aliquid ut aut expedita mollitia occaecati. Illum error sequi cupiditate. Optio id aperiam sit iusto vitae nulla. Accusantium dolores ut pariatur culpa explicabo veritatis qui eum earum. Odio ipsa aperiam reprehenderit.",
+      "type": "Sleek"
+    },
+    {
+      "id": "adfa4f98-3f77-4ca7-b43c-86fa5930d468",
+      "name": "Tasty Plastic Salad",
+      "price": 319.01,
+      "description": "Et voluptatem odio officia. Sed distinctio est aut porro in eveniet. Inventore explicabo numquam eos qui facilis ut ipsa possimus nihil.",
+      "type": "Incredible"
+    },
+    {
+      "id": "662b70fd-83c0-452b-8526-c6b54711b212",
+      "name": "Licensed Steel Sausages",
+      "price": 45.49,
+      "description": "asperiores",
+      "type": "Fantastic"
+    },
+    {
+      "id": "c8838f40-ed9f-4a97-b0b6-dd0c9fbc06f2",
+      "name": "Sleek Soft Towels",
+      "price": 724.25,
+      "description": "Fuga quo porro odit placeat deserunt porro non nihil. Aut in rerum.",
+      "type": "Licensed"
+    }
+  ]
+}

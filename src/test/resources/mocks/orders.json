@@ -1,0 +1,77 @@
+{
+  "page": 1,
+  "limit": 10,
+  "totalItems": 4,
+  "totalPages": 1,
+  "hasNextPage": false,
+  "hasPreviousPage": false,
+  "data": [
+    {
+      "id": "300e5644-264f-4d4e-a2c5-17344da0666d",
+      "customerId": "fa481cc5-7577-457c-b45e-30b501721ce4",
+      "totalPrice": 1539.48,
+      "status": "APPROVED",
+      "items": [
+        {
+          "id": 5,
+          "orderId": null,
+          "productId": "c8838f40-ed9f-4a97-b0b6-dd0c9fbc06f2",
+          "productUnityValue": 724.25,
+          "quantity": 2
+        },
+        {
+          "id": 6,
+          "orderId": null,
+          "productId": "662b70fd-83c0-452b-8526-c6b54711b212",
+          "productUnityValue": 45.49,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "1f9c7cbf-c611-4c9e-b6bc-685635faada5",
+      "customerId": "a371bb48-8de4-4375-87ae-9b1b5d1d511c",
+      "totalPrice": 624.4,
+      "status": "APPROVED",
+      "items": [
+        {
+          "id": 2,
+          "orderId": null,
+          "productId": "cb47d71f-3faf-4d38-9eba-0d2e7760920c",
+          "productUnityValue": 62.44,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "0be29b77-f299-4ba1-8102-a8d8b8609002",
+      "customerId": "27635371-7ce3-4807-a192-411687f819d5",
+      "totalPrice": 624.4,
+      "status": "PENDING",
+      "items": [
+        {
+          "id": 7,
+          "orderId": null,
+          "productId": "cb47d71f-3faf-4d38-9eba-0d2e7760920c",
+          "productUnityValue": 62.44,
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "id": "7c771309-4b3f-4cd2-9020-beef49d614a0",
+      "customerId": "baf69964-4c4f-46f1-b03b-c6cdb746b4df",
+      "totalPrice": 624.4,
+      "status": "PENDING",
+      "items": [
+        {
+          "id": 8,
+          "orderId": null,
+          "productId": "cb47d71f-3faf-4d38-9eba-0d2e7760920c",
+          "productUnityValue": 62.44,
+          "quantity": 10
+        }
+      ]
+    }
+  ]
+}
